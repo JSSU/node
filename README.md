@@ -1,2 +1,2 @@
 # node
-try to learn node
+Try to learn node
